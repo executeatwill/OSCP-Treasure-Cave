@@ -22,6 +22,8 @@ Legal Notice && Usage:
 
 **Path to OSCP Write-ups**
 
+https://h0mbre.github.io/OSCP/# #resources avaliable on site.
+
 https://www.reddit.com/r/hacking/comments/7nkmfc/road_to_oscp/
 
 https://h4cklife.org/2018/05/22/a-pre-exam-for-future-oscp-students/
@@ -79,8 +81,6 @@ source: https://highon.coffee/blog/cheat-sheet/
 https://github.com/rewardone/OSCPRepo
 
 https://github.com/areyou1or0/OSCP
-
-
 
 ![](/static/img/pixel.gif)
 
