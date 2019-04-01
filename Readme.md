@@ -38,6 +38,7 @@ https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-
 
 https://www.cybrary.it/0p3n/prep-guide-offsecs-pwkoscp/
 
+(added) https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 
 https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/
 
